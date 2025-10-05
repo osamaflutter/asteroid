@@ -6,11 +6,37 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# 🚀 Flutter Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A Flutter project built using Dart.  
+This guide explains how to set up, run, and build the app on your local machine.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📋 Prerequisites
+
+Before running this project, make sure you have:
+
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) (latest stable version)
+- [Dart SDK](https://dart.dev/get-dart) (usually included with Flutter)
+- Android Studio or Visual Studio Code (with Flutter/Dart extensions)
+- An emulator or a connected device
+- Git installed on your machine
+
+---
+
+## 🧩 Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/your-username/your-flutter-project.git
+
+   
+2.Navigate to the project folder
+   cd your-flutter-project
+
+
+3.Get dependencies
+   flutter pub get
+
